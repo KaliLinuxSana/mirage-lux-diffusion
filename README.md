@@ -1,5 +1,7 @@
-# Stable Diffusion web UI
-A web interface for Stable Diffusion, implemented using Gradio library.
+# Mirage Lux
+The Future of AI-Generated Futuristic and Anime POV Videos.
+Powered by Stable Diffusion & AnimateDiff Technology.
+
 
 ![](screenshot.png)
 
